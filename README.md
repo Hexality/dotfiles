@@ -51,8 +51,8 @@
   </tr>
   <tr>
     <th><a href="https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral">DesktopCoral</a></th>
-    <td>Reserves a region on screen that apps can't go over</td>
-    <td>Used to lock the topbar in place to keep always visible.</td>
+    <td align="center">Reserves a region on screen that apps can't go over</td>
+    <td align="center">Used to lock the topbar in place to keep always visible.</td>
   </tr>
   <tr>
     <th><a href="https://www.rainmeter.net/">Rainmeter</a></th>
