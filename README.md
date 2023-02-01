@@ -96,4 +96,4 @@ $mF.ShowDialog() # for the interactive ones </pre>
 <h2 align="center">StartAllBack Configs</h2>
 <p align="center">Soon™</p>
 
-<input type="checkbox" value="Test"></input>
+<input type="checkbox" value=""> Use large icons</input>
