@@ -70,6 +70,11 @@
     </td>
   </tr>
   <tr>
+    <th><a href="">Microsoft PowerToys</a></th>
+    <td>Windows Tools for Power Users</td>
+    <td>Caffeine, Color picker, FancyZones, Locksmith, SVG explorer addons, Image Resizer, PowerRename, PowerToys Run, Ruler, OCR</td>
+  </tr>
+  <tr>
     <th><a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/">Wallpaper Engine (Rarely used)</a></th>
     <td>Desktop Interactive Wallpapers</td>
     <td>Used for screenshots/photos only</td>
