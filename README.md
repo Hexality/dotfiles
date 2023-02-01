@@ -213,3 +213,9 @@ $mF.ShowDialog() # for the interactive ones </pre>
     </td>
   </tr>
  </table>
+ 
+ ```diff
+- Due to the nature of Microsoft with windows and its licenses, 
+- I won't be redistributing any of my modified Dlls nor encourage you 
+- modifying it yourself as it can break your entire OS if done incorrectly.
+ ```
