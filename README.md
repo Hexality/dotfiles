@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Microsoft "dotfiles"</h1>
+  <h1>"dotfiles"</h1>
 <p>Jokes aside, here all the shit I use to customize windows to the brim.</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/17398632/215917149-15d732ed-3c40-4213-b767-c0366f25f978.png">
