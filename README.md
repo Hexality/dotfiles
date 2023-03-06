@@ -72,6 +72,11 @@
     <td align="center">Caffeine, Color picker, FancyZones, Locksmith, SVG explorer addons, Image Resizer, PowerRename, PowerToys Run, Ruler, OCR</td>
   </tr>
   <tr>
+    <th><a href="">SageThumbs</a></th>
+    <td align="center">Explorer thumbnails for various file types</td>
+    <td align="center">Allows me to visualize the contents of file like .psd, .ai, .xd etc.</td>
+  </tr>
+  <tr>
     <th><a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/">Wallpaper Engine (Rarely used)</a></th>
     <td align="center">Desktop Interactive Wallpapers</td>
     <td align="center">Used for screenshots/photos only</td>
